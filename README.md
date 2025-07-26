@@ -31,3 +31,5 @@
 -> Clean-up Ghostty config.
 
 -> Add cursor smear to ghostty.
+
+-> Build my Neovim config.
