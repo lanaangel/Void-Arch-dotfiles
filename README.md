@@ -6,11 +6,11 @@
 ##### Clone the repo, change directory into it and run `git checkout -b 1.2`
 ## **Programs (self reminder):**
 ### Screenshots
-grim
-slurp
+###### grim
+###### slurp
     
 ### Notifications
-mako
+###### mako
 
 ### Color-picker
 ###### wl-color-picker (Void: build from source. For Arch, you can just get it from the AUR).
