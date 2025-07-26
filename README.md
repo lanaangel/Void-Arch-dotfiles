@@ -11,6 +11,7 @@
     
 ### Notifications
 ###### mako
+###### -sway notification center-
 
 ### Color-picker
 ###### wl-color-picker (Void: build from source. For Arch, you can just get it from the AUR).
