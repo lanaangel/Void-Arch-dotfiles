@@ -5,3 +5,5 @@ palette = "dark"
 [templates]
 kitty.template = 'kitty-colors.conf'
 kitty.target = '~/.config/kitty/colors-wallust.conf'
+ghostty.template = 'colors-ghostty.conf'
+ghostty.target = '~/.config/ghostty/themes/wallust.conf'
