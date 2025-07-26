@@ -29,4 +29,5 @@ Ghostty was compiled from source to attain the latest version (check https://gho
     
 # To-do
 -> Clean-up Ghostty config.
+
 -> Add cursor smear to ghostty.
