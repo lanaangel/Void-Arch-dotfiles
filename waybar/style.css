@@ -3,13 +3,13 @@
   border-radius: 0;
   min-height: 0;
   font-family: "Iosevka Term";
-  font-size: 16px;
+  font-size: 14px;
   padding: 0;
 }
 
 window#waybar {
   background: #202020;
-  color: #9b8d7f;
+  color: #7f9b8a;
 }
 
 tooltip {
@@ -28,21 +28,21 @@ tooltip {
 }
 
 #workspaces button {
-  color: #9b8d7f;
+  color: #7f9b8a;
 }
 
 
 #workspaces button.focused {
-  background-color: #9b8d7f;
+  background-color: #7f9b8a;
   color: #202020;
 }
 
 #workspaces button.active {
   background-color: #202020;
-  color: #9b8d7f;
+  color: #7f9b8a;
 }
 
 #battery, #tray, #clock, #cpu, #pulseaudio, #memory {
   /* background-color: none; */
-  color: #9b8d7f;
+  color: #7f9b8a;
 }
