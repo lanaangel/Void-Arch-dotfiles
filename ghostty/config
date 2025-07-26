@@ -1,0 +1,5 @@
+window-decoration = server
+font-family = IosevkaTerm
+font-family-bold = Symbols Nerd Font
+font-size = 14
+theme = wallust.conf 
