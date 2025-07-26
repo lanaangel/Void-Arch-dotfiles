@@ -29,7 +29,6 @@
     
 # To-do
 > - Clean-up Ghostty config.
-
 > - Add cursor smear to ghostty.
-
+> - Add a clipboard manager (maybe clipman?)
 > - Build my Neovim config.
