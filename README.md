@@ -11,7 +11,6 @@
     
 ### Notifications
 ###### mako
-###### -sway notification center-
 
 ### Color-picker
 ###### wl-color-picker (Void: build from source. For Arch, you can just get it from the AUR).
@@ -29,8 +28,8 @@
 ###### rofi-wayland 
     
 # To-do
--> Clean-up Ghostty config.
+> - Clean-up Ghostty config.
 
--> Add cursor smear to ghostty.
+> - Add cursor smear to ghostty.
 
--> Build my Neovim config.
+> - Build my Neovim config.
