@@ -13,19 +13,19 @@ slurp
 mako
 
 ### Color-picker
-wl-color-picker (Void: build from source. For Arch, you can just get it from the AUR).
+###### wl-color-picker (Void: build from source. For Arch, you can just get it from the AUR).
 
 ### Fonts
-Iosevka
-IosevkaTerm
-Awesome
-ttf-vlgothic (kanji)
+###### Iosevka
+###### IosevkaTerm
+###### Awesome
+###### ttf-vlgothic (kanji)
 
 ### Others
-yt-dlp
-qutebrowser
-mpv
-rofi-wayland 
+###### yt-dlp
+###### qutebrowser
+###### mpv
+###### rofi-wayland 
     
 # To-do
 -> Clean-up Ghostty config.
