@@ -17,9 +17,10 @@ mako
 wl-color-picker (Void: build from source. For Arch, you can just get it from the AUR).
 
 ### Fonts
-Iosevka (~/.fonts)
-IosevkaTerm (~/.fonts)
-Awesome (usr/share/fonts)
+Iosevka
+IosevkaTerm
+Awesome
+ttf-vlgothic (kanji)
 
 ### Others
 yt-dlp
