@@ -1,5 +1,3 @@
-**Personal backup for my sway config.**
-
 # Personal backup for my i3/Sway config.
 
 I ran i3wm inside of XFCE for the longest time, so there was no need for additional programs, as I could simply rely on the XFCE suite.
