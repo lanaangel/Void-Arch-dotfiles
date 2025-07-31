@@ -9,7 +9,7 @@
 
 window#waybar {
   background: #202020;
-  color: #7f9b8a;
+  color: #86764c;
 }
 
 tooltip {
@@ -28,21 +28,21 @@ tooltip {
 }
 
 #workspaces button {
-  color: #7f9b8a;
+  color: #86764c;
 }
 
 
 #workspaces button.focused {
-  background-color: #7f9b8a;
+  background-color: #86764c;
   color: #202020;
 }
 
 #workspaces button.active {
   background-color: #202020;
-  color: #7f9b8a;
+  color: #86764c;
 }
 
 #battery, #tray, #clock, #cpu, #pulseaudio, #memory {
   /* background-color: none; */
-  color: #7f9b8a;
+  color: #86764c;
 }
