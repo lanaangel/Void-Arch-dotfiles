@@ -1,5 +1,6 @@
-window-decoration = server
+window-decoration = none
 font-family = IosevkaTerm
 font-family-bold = Symbols Nerd Font
 font-size = 14
 theme = wallust.conf 
+custom-shader = shaders/cursor_smear.glsl
